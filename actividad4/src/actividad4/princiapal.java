@@ -6,10 +6,18 @@ public class princiapal {
 		// TODO Auto-generated method stub
 
 		
+		
+	
+	
+		
 		System.out.println ("Bienvenido al repositorio");
 	
-	}
+		System.out.println ("Bienvenido al repositorio1");
+		
+		System.out.println ("Bienvenido al repositorio2");
 	
+	}
+}
 	
 
-}
+
