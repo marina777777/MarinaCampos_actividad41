@@ -12,10 +12,7 @@ public class princiapal {
 		
 		System.out.println ("Bienvenido al repositorio");
 	
-		System.out.println ("Bienvenido al repositorio1");
-		
-		System.out.println ("Bienvenido al repositorio2");
-	
+	    System.out.println("segundo commit");	
 	}
 }
 	
