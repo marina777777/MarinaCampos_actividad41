@@ -6,8 +6,8 @@ public class princiapal {
 		// TODO Auto-generated method stub
 
 		
-		System.out.println ("Hola Mundo. Java Git");
-		System.out.println ("Hola Mundo. Z Java Git");
+		System.out.println ("Bienvenido al repositorio");
+	
 	}
 	
 	
