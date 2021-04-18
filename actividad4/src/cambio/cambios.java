@@ -10,6 +10,9 @@ public class cambios {
 	    System.out.println("el cambio");
 	
 	    System.out.println("el cambio1");
+	    
+	    System.out.println("el cambio2");
+	    
 
 }
 }
